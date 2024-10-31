@@ -1,6 +1,6 @@
 # Graph Topology Documentation
 
-This document provides an overview of the contents and structure of the `graph_topology` folder.
+This repo provides the ability to make a dataset of scene graph for RL in VLN.
 
 ## Contents
 
